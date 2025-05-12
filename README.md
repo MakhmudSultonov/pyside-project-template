@@ -38,6 +38,7 @@ project/
 ├── env/                    # Virtual environment
 ├── py/                     # Python kodlari
 │   ├── main.py             # Asosiy Python fayli
+│   ├── rc.py               # QML resurslarini Python kodiga o`girilgan fayl
 ├── qml/                    # QML fayllari
 │   └── main.qml            # Asosiy QML fayli
 ├── .gitignore              # Git uchun e'tiborga olinmasligi kerak bo'lgan fayllar
