@@ -18,7 +18,7 @@ Bu loyiha PySide6 yordamida zamonaviy desktop ilovalar yaratish uchun tayyor sha
 
 3. **Loyiha tuzilishi**
    - `main.py` va `main.qml` fayllarini o'chirib tashlang
-   - Hitdan ko'chirilgan fayllarni loyiha papkasiga joylang
+   - Gitdan ko'chirilgan fayllarni loyiha papkasiga joylang
    - "Add Existing Files" orqali `qml.qrc` va `run.py` fayllarini qo'shing
 
 4. **Ishga tushirish sozlamalari**
