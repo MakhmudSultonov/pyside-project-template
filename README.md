@@ -42,8 +42,6 @@ project/
 ├── qml/                    # QML fayllari
 │   └── main.qml            # Asosiy QML fayli
 ├── .gitignore              # Git uchun e'tiborga olinmasligi kerak bo'lgan fayllar
-├── main.py                 # Ishga tushirish uchun asosiy fayl
-├── main.qml                # Asosiy QML fayli
 ├── rc.qrc                  # QML resurslari
 ├── requirements.txt        # Kerakli Python paketlari
 ├── run.py                  # Ishga tushirish uchun Python skripti
